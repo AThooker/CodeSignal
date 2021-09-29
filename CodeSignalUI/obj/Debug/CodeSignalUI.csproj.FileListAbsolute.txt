@@ -1,0 +1,7 @@
+C:\Users\17654\Desktop\SDTraining\CodeSignal\CodeSignal\CodeSignalUI\bin\Debug\CodeSignalUI.exe.config
+C:\Users\17654\Desktop\SDTraining\CodeSignal\CodeSignal\CodeSignalUI\bin\Debug\CodeSignalUI.exe
+C:\Users\17654\Desktop\SDTraining\CodeSignal\CodeSignal\CodeSignalUI\bin\Debug\CodeSignalUI.pdb
+C:\Users\17654\Desktop\SDTraining\CodeSignal\CodeSignal\CodeSignalUI\obj\Debug\CodeSignalUI.csproj.AssemblyReference.cache
+C:\Users\17654\Desktop\SDTraining\CodeSignal\CodeSignal\CodeSignalUI\obj\Debug\CodeSignalUI.csproj.CoreCompileInputs.cache
+C:\Users\17654\Desktop\SDTraining\CodeSignal\CodeSignal\CodeSignalUI\obj\Debug\CodeSignalUI.exe
+C:\Users\17654\Desktop\SDTraining\CodeSignal\CodeSignal\CodeSignalUI\obj\Debug\CodeSignalUI.pdb
